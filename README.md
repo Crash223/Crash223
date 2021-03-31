@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Technologies 
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on python and big data related projects.
-- 📫 How to reach me 
 
 <!---
 Crash223/Crash223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
